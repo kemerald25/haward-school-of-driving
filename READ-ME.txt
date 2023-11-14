@@ -1,9 +1,9 @@
   =>  Template Name    : Drivin - Driving School Website Template
 
-  =>  Template Link    : https://htmlcodex.com/driving-school-website-template
+  =>  Template Link    : https://vosmediaservices.com/driving-school-website-template
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template License : https://vosmediaservices.com/license (or read the LICENSE.txt file)
 
   =>  Template Author  : VOS Media Services
 
-  =>  Author Website   : https://htmlcodex.com
+  =>  Author Website   : https://vosmediaservices.com
